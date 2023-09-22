@@ -10,7 +10,7 @@ class CTest {
         }
     }    
 }
-public class hw8_7 {
+public class hw8_07 {
     public static void main(String[] args) {
         CTest x1 = new CTest();
         CTest x2 = new CTest();
