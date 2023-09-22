@@ -23,7 +23,7 @@ class CBox{
         System.out.println("surfaceArea= "+surfaceArea());
     }
 }    
-public class hw8_5 {
+public class hw8_05 {
     public static void main(String[] args) {
         CBox box = new CBox();
         box.length = 1;
