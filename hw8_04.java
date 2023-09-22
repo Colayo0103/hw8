@@ -3,7 +3,7 @@ class CBox{
     int width;
     int height;
 }
-public class hw8_4 {
+public class hw8_04 {
     public static void main(String[] args) {
         CBox box = new CBox();
         box.length = 15;
