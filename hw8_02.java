@@ -2,7 +2,7 @@ class cbbb{
     double x;
     double y;
 }
-public class hw8_2 {
+public class hw8_02 {
     public static void main(String[] args) {
         cbbb obj1 = new cbbb();
         cbbb obj2 = new cbbb();
