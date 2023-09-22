@@ -6,7 +6,7 @@ class CCircle {
         System.out.println("periphery = " + this.pi * 2 * radius);
     }
 }
-public class hw8_6 {
+public class hw8_06 {
     public static void main(String[] args) { 
         CCircle cir1 = new CCircle();
         CCircle cir2 = new CCircle();
